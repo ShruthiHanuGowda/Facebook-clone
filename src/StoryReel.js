@@ -31,14 +31,10 @@ function StoryReel() {
         title="kiran"
       />
       <Story
-        image="https://images.pexels.com/photos/4004374/pexels-photo-4004374.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-        profileSrc="https://images.unsplash.com/photo-1517849845537-4d257902454a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTR8fGFuaW1hbHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-        title="Hanu"
+        image="https://images.pexels.com/photos/712319/pexels-photo-712319.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        profileSrc="https://cdn.pixabay.com/photo/2014/09/14/18/04/dandelion-445228__340.jpg"
+        title="Shruthi"
       />
-
-      {/* Story */}
-      {/* Story */}
-      {/* Story */}
     </div>
   );
 }
